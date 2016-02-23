@@ -1,6 +1,6 @@
 name: DenaZavier
 favicon: null
-layout_spectrum: 0.2654080712236464
+layout_spectrum: 0.99651
 typography_spectrum: 0.7914940423797816
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.9460487875621766
+  brandStrength: 0.5
   lightness: 0.29954510228708386
   saturation: 0.5760191248264164
-  rhythmicContrast: 0.40512661752291024
+  rhythmicContrast: 0.5
 purpose: []
